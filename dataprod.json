@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+"id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
+"name": "Classic White T-Shirt",
+"description": "This classic white t-shirt is a wardrobe essential. Made from 100% cotton, it is soft, comfortable, and perfect for everyday wear. The slim fit design flatters the body, while the short sleeves and crew neck provide a classic look that never goes out of style.",
+"descriptionHtml": "<p>This classic white t-shirt is a wardrobe essential. Made from 100% cotton, it is soft, comfortable, and perfect for everyday wear. The slim fit design flatters the body, while the short sleeves and crew neck provide a classic look that never goes out of style.</p>",
+"images": [
+{
+"height": 1000,
+"altText": "Classic White T-Shirt",
+"width": 1000,
+"url": "/assets/t-shirt3.png"
+},
+{
+"altText": "Classic White T-Shirt",
+"url": "/assets/t-shirt4.png",
+"width": 1000,
+"height": 1000
+},
+{
+"altText": "Classic White T-Shirt",
+"height": 1000,
+"width": 1000,
+"url": "/assets/t-shirt3.png"
+}
+],
+"slug": "classic-white-tshirt",
+"vendor": "H&M",
+"variants": [
+{
+"id": "Z2lkOid8vc2hvcGlmeS9Qcm9kdWN0LzU0NDczMjUwMjQ0MjAss=",
+"options": [
+{
+"values": [
+{
+"label": "M"
+}
+],
+"displayName": "Size",
+"__typename": "MultipleChoiceOption",
+"id": "asd"
+}
+]
+}
+],
+"path": "/classic-white-tshirt",
+"price": {
+"currencyCode": "USD",
+"value": 19.99
+},
+"options": [
+{
+"values": [
+{
+"hexColors": [
+"#FFF"
+],
+"label": "White"
+}
+],
+"id": "option-color",
+"displayName": "Color"
+},
+{
+"id": "option-size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+],
+"displayName": "Size"
+}
+],
+"category": "men",
+"designer": "",
+"stock": 50
+}
+  ]
+}
